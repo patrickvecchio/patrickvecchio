@@ -48,7 +48,7 @@
           "foreground": "#cccccc",
           "properties": {
             "folder_icon": "\u2026",
-            "style": "mixed"
+            "style": "full"
           },
           "style": "plain",
           "template": " {{ .Path }} ",
